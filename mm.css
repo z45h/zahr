@@ -31,7 +31,7 @@ grid-gap: 0 5px;
 
 
 .container .get .header{
-background-image: url(vvv.jpg);
+background-image: url(img/vvv.jpg);
 background-size: cover;
 grid-area: header;
 height: 80px;
